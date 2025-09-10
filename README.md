@@ -33,24 +33,24 @@ class AboutMe(MySelf):
 
 <br />
 
-<a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width = 60 alt=python/>      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"width = 60 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"width = 60 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"width = 60 alt=postger-sql/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"width = 60 />
-<img>
-</a>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="60" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" alt="Git" />
+</p>
 
 <br />
 
 **<h2 align=center>**GitHub Metrics 📊**</h2>**
 
 <br />
-<a>
-<img src="https://github-readme-stats.vercel.app/api?username=amirhkhani&show_icons=true&theme=dark"alt="insight"width=425>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhkhani&layout=compact&theme=dark"alt="insight"width=425>
-</a>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=amirhkhani&show_icons=true&theme=dark"alt="insight"width=425> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhkhani&layout=compact&theme=dark"alt="insight"width=425>
+</p>
+
 <br />
 
 **<h2 align=center>**Stay in Touch 🌐**</h2>**
