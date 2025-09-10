@@ -47,8 +47,8 @@ class AboutMe(MySelf):
 
 <br />
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amirhkhani&show_icons=true&theme=dark"alt="insight"width=425> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhkhani&layout=compact&theme=dark"alt="insight"width=425>
+    <img src="https://github-readme-stats.vercel.app/api?username=amirhkhani&show_icons=true&theme=dark"alt="insight"width=375> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhkhani&layout=compact&theme=dark"alt="insight"width=375>
 </p>
 
 <br />
