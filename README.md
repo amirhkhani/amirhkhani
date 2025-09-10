@@ -1,8 +1,10 @@
 <h1 align = center>Hi 👋, I'm AmirHossein Khani </h1>
 
 <h4 align=center>Python Developer 🐍 | PorPostgreSQL developer 🛢️ </h4>
-<h4 align=center>Student 👨‍🎓 of Data Science 🧮 and Machine Learning 🧠
+<h4 align=center>👨‍🎓 Learning Data Science 🧮 and Machine Learning 🧠
 
+<br />
+<br />
 <br />
 
 
@@ -14,6 +16,7 @@ class AboutMe(MySelf):
         self.name = "Amir Hossein Khani"
         self.born_in = 2005
         self.living_city = "Tehran, Iran"
+        self.job = "Student"
         self.university_major = "Biomedical Engineering"
 
     def info(self):
@@ -47,8 +50,8 @@ class AboutMe(MySelf):
 
 <br />
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amirhkhani&show_icons=true&theme=dark"alt="insight"width=375> &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhkhani&layout=compact&theme=dark"alt="insight"width=375>
+    <img src="https://github-readme-stats.vercel.app/api?username=amirhkhani&show_icons=true&theme=dark"alt="insight"width=385> &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhkhani&layout=compact&theme=dark"alt="insight"width=385>
 </p>
 
 <br />
@@ -57,7 +60,6 @@ class AboutMe(MySelf):
 
 <br />
 
-[![Telegram](https://img.shields.io/badge/Telegram-amirhossein__eses-blue?logo=telegram)](https://t.me/amirhossein_eses) &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-amirhosseinkhani313@gmail.com-red?logo=gmail)](mailto:amirhosseinkhani313@gmail.com) &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmirHossein%20Khani-blue?logo=linkedin)](https://www.linkedin.com/in/amirhossein-khani)
-
+[![Telegram](https://img.shields.io/badge/Telegram-@amirhossein__eses-blue?style=flat&logo=telegram)](https://t.me/amirhossein_eses) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-amirhossseinkhani313%40gmail.com-red?style=flat&logo=gmail)](mailto:amirhosseinkhani313@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/Linkedin-AmirHosseinkhani-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amirhossein-khani-a82ab6380?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
