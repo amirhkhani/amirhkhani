@@ -57,15 +57,7 @@ class AboutMe(MySelf):
 
 <br />
 
-<p>
-<a href="https://t.me/amirhossein_eses">
-<img src="https://img.shields.io/badge/Telegram-amirhossein__eses-blue?logo=telegram" width=250 height= >
-</a>
-<a href="https://amirhossseinkhani313@gmail.com/">
-<img src="https://img.shields.io/badge/Gmail-amirhossseinkhani313@gmail.com-red?logo=gmail" width=345>
-</a>
-<a href="https://www.linkedin.com/in/amirhossein-khani-a82ab6380/">
-<img src="https://img.shields.io/badge/Linkedin-AmirHossein Khani-blue?logo=linkedin" width=225 height= >
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-amirhossein__eses-blue?logo=telegram)](https://t.me/amirhossein_eses) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-amirhosseinkhani313@gmail.com-red?logo=gmail)](mailto:amirhosseinkhani313@gmail.com) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AmirHossein%20Khani-blue?logo=linkedin)](https://www.linkedin.com/in/amirhossein-khani)
 
-</p>
