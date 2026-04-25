@@ -24,7 +24,8 @@ class AboutMe(MySelf):
                 computer lover,
                 Python Developer for AI and Data Analysis,
                 Member of AI & Machine Learning study groups,
-                Developing AI/ML solutions and model for Healthcare
+                Developing AI/ML solutions and model for better life,
+                will be studing AI model security in future :)
 
                 """
 
