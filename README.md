@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm AmirHossein Khani</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:3d444d,50:3B807D,100:0E5680&text=AMIRHOSSEIN%20KHANI&fontColor=fff&section=header&fontSize=60&desc=Python%20Backend%20Developer%20|%20Data%20Engineering%20Enthusiast&descSize=20&descAlign=50&descAlignY=59&fontAlignY=33" style="width:100%">
 
-<h3 align="center">Python Backend Developer | Data Engineering Enthusiast</h3>
-
-<p align="center">
-Building scalable backend systems with FastAPI, PostgreSQL and Docker 🐍⚙️
+<p align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=3&color=36AEF7&center=true&multiline=true&width=850&height=80&lines=Building+scalable+backend+systems+with+;FastAPI%2C+PostgreSQL+and+Docker+%F0%9F%90%8D%E2%9A%99%EF%B8%8F+++++++++++++++++++++++++++;aa" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -90,3 +88,4 @@ SOON! :)
 </a>
 
 </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:3d444d,50:3B807D,100:0E5680&fontColor=fff&section=footer" style="width:100%">
