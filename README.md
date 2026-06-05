@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=275&color=0:3d444d,50:3B807D,100:0E5680&text=AMIRHOSSEIN%20KHANI&fontColor=fff&section=header&fontSize=60&desc=Python%20Backend%20Developer%20|%20Data%20Engineering%20Enthusiast&descSize=20&descAlign=50&descAlignY=59&fontAlignY=33" style="width:100%">
-
 <p align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=35&letterSpacing=0&duration=2000&color=00ACC1&center=true&multiline=true&width=850&height=89&lines=Building+scalable+backend+systems+with+;FastAPI%2C+PostgreSQL+and+Docker+%F0%9F%90%8D%E2%9A%99%EF%B8%8F+++++++++++++++++++++++++++;aaa" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=28&letterSpacing=0&duration=2000&color=00ACC1&center=true&multiline=true&width=850&height=83&lines=Building+scalable+backend+systems+with+;FastAPI%2C+PostgreSQL+and+Docker+%F0%9F%90%8D%E2%9A%99%EF%B8%8F+++++++++++++++++++++++++++;aaa" alt="Typing SVG" /></a>
 </p>
 
 ---
