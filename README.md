@@ -43,8 +43,9 @@ Currently improving my skills in scalable backend architecture and deployment.
 ### 📊 GitHub Stats && 💻 Top Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amirhkhani&theme=midnight-purple" width=500/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirhkhani&theme=tokyonight" width=400/ height=200>
+  <img src="https://streak-stats.demolab.com?user=amirhkhani&theme=midnight-purple" width=400/>
+  &nbsp; 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amirhkhani&theme=tokyonight" width=300/ height=200>
 
 </p>
 
